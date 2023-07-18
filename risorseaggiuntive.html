@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Risorse aggiuntive</title>
+    <link rel="stylesheet" href="stile/stilerisorse.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="alternate" type="application/xml" href="DCvideo.xml">
+</head>
+
+</head>
+<body>
+<header>
+    <div class="intro">
+      <h1>Risorse aggiuntive</h1>  
+    </div>
+</header>
+    <div class="w3-bar w3-border" style="width:100%;height:50px; margin-left:0; margin-top:30px">
+      <a href="impressionismo ed espressionismo.html" class="w3-bar-item w3-button w3-hover-white">Home</a>
+      <a href="#" class="w3-bar-item w3-button w3-hover-white">Confronto diretto fra Impressionismo ed Espressionismo</a>
+      <a href="#" class="w3-bar-item w3-button w3-hover-white">Contesto storico e culturale</a>
+      <a href="#" class="w3-bar-item w3-button w3-hover-white">Galleria virtuale</a>
+      <a href="risorseaggiuntive.html" class="w3-bar-item w3-button w3-hover-white">Risorse aggiuntive</a>
+    </div>
+    <div class="contenuto">
+        <p>Di seguito propongo una selezione di video, libri, podcast e articoli interessanti per implementare le conoscenze sul tema. Quando si studia un tema è importante ascoltare ed assorbire punti di vista differenti per permettere alla nostra conoscenza di consolidarsi e al nostro pensiero critico di formarsi.</p>
+     <div>
+        <div class="contenuti video">
+            <h2>Video</h2>  
+            <button class="accordion">Impressionismo</button>
+            <div class="panel">
+               <video src="video/impressionismo.mp4" class="video1" controls></video>
+                    <p>Titolo: Impressionismo <br>
+                       Autore: Bolpagni, Paolo <br>
+                       Pubblicato da: Regola d'Arte <br>
+                       Data: 17/09/2011 <br>
+                       Tipo: video <br>
+                       Formato: mp4 <br>
+                       Licenza: Creative Commons <br>
+                       <a href="xml/DCvideo.xml" class="filexml" target="_blank">Vai al file xml</a> </p>
+               <video src="video/4 - Monet e la delicatezza della luce -- Maria Vittoria Marini Clarelli.mp4" class="video2" controls></video>
+               <p>Titolo: Monet e la delicatezza della luce <br>
+                  Autore: Maria Vittoria Marini Clarelli <br>
+                  Pubblicato da: Eduflix Italia <br>
+                  Data: 03/09/2012 <br>
+                  Tipo: video <br>
+                  Formato: mp4 <br>
+                  Licenza: Creative Commons <br>
+                  <a href="xml/DCvideo.xml" class="filexml" target="_blank">Vai al file xml</a> </p>
+            </div>
+            <button class="accordion">Espressionismo</button>
+            <div class="panel">
+                <p>video</p>
+            </div>
+        </div>
+        <div class="contenuti testi">
+            <h2>Libri consigliati</h2>      
+            <button class="accordion">Impressionismo</button>
+            <div class="panel">
+            <p><strong><em>I tesori nascosti dell'Impressionismo: [pre impressionismo, impressionismo, post impressionismo]</strong>, a cura di Michel Agnetti</em><br>
+            Art Is, stampa 2008 <br><a href="#" class="metadati">Vai ai metadati del testo</a><br>
+            <strong><em>Impressionismo:il sorgere del sole della contemporaneità</strong></em>, Alfredo De Paz; <br>
+            Napoli:Liguori,2001 <br> <a href="#" class="metadati">Vai ai metadati del testo</a></p>
+            </div> 
+            <button class="accordion">Espressionismo</button>
+             <div class="panel">
+            <p>testi</p>
+            </div>
+        </div>
+        <div class="contenuti audio">
+            <h2>Podcast</h2>
+            <button class="accordion">Impressionismo</button>
+            <div class="panel">
+                <p><strong><em>Le avanguardie tra musica e pittura: impressionismo</strong></em> a cura di Giuseppe Fausto Modugno <br>
+                Tipo di documento: registrazione sonora non musicale <br>
+                Anno: 2010 <br>
+                <a href="xml/audio.xml" class="metadati" target="_blank">File xml</a>
+                </p>
+            </div>
+            <button class="accordion">Espressionismo</button>
+            <div class="panel">
+                <p>audio</p>
+            </div>
+        <div class="contenuti riviste">
+            <h2>Articoli</h2>
+            <button class="accordion">Impressionismo</button>
+            <div class="panel">
+                <p>articolo</p>
+            </div>
+            <button class="accordion">Espressionismo</button>
+            <div class="panel">
+                <p>articoli</p>
+            </div>
+        </div>
+</body>
+<div class="licenze">
+ <p><a href="#">Credits</a> | <a href="#">Licenze</a></p>
+ </div>
+  <footer>
+     <p>&copy;Copyright Francesca Tomasi 2023 - Corso di Digital Humanities e Patrimonio Culturale</p> 
+  </footer>
+  <script>
+    var accordions = document.getElementsByClassName("accordion");
+
+    for (var i = 0; i < accordions.length; i++) {
+    accordions[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.display === "block") {
+      panel.style.display = "none";
+    } else {
+      panel.style.display = "block";
+    }
+  });
+  }
+ </script>
+
+    
+</body>
+</html> 

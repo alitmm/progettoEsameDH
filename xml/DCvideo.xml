@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Impressionismo</dc:title>
+    <dc:creator>Paolo Bolpagni</dc:creator>
+    <dc:subject>video - impressionismo - arte</dc:subject>
+    <dc:description>Breve video riguardante la nascita dell'Impressionismo, spiegato da esperti nel settore.</dc:description>
+    <dc:publisher>Regola d'Arte</dc:publisher>
+    <dc:date>17/09/2011</dc:date>
+    <dc:type>video</dc:type>
+    <dc:format>mp4</dc:format>
+    <dc:source>youtube.com https://www.youtube.com/watch?v=WUrnuIGwoxw</dc:source>
+    <dc:language>italiano</dc:language>
+    <dc:rights>creative commons</dc:rights>
+  </metadata>
+
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Monet e la delicatezza della luce</dc:title>
+    <dc:creator>Maria Vittoria Marini Clarelli</dc:creator>
+    <dc:subject>video - Claude Monet - arte</dc:subject>
+    <dc:description>Breve video sullo stile artistico di Claude Monet ed i particolare i suoi studi sulla luce.</dc:description>
+    <dc:publisher>Eduflix Italia</dc:publisher>
+    <dc:date>03/09/2012</dc:date>
+    <dc:type>video</dc:type>
+    <dc:format>mp4</dc:format>
+    <dc:source>youtube.com https://www.youtube.com/watch?v=pPLeTe--tMst=159s</dc:source>
+    <dc:language>italiano</dc:language>
+    <dc:rights>creative commons</dc:rights>
+  </metadata>
+</root>

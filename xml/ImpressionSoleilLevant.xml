@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra-strict.xsd">
+	<work id="w_26" source="Core 4 Sample Database (VCat)" refid="26">
+		<agentSet>
+			<display>Claude Monet (pittore francese, 1840-1926)</display>
+			<notes/>
+			<agent>
+				<name vocab="ULAN" refid="500019484" type="personal">Monet, Claude</name>
+				<dates type="life">
+					<earliestDate>1840</earliestDate>
+					<latestDate>1926</latestDate>
+				</dates>
+				<culture>francese</culture>
+				<role>artista</role>
+			</agent>
+		</agentSet>
+		<culturalContextSet>
+			<culturalContext>Francese</culturalContext>
+		</culturalContextSet>
+		<dateSet>
+			<display>1872 (creazione)</display>
+			<date type="creation">
+				<earliestDate>1872</earliestDate>
+				<latestDate>1872</latestDate>
+			</date>
+		</dateSet>
+		<descriptionSet>
+			<display>Un soggiorno intorno al novembre 1872 all'Hôtel de l'Amirauté di Le Havre fornì a Monet il motivo per il suo dipinto più famoso, Impression, Soleil levat. Dalla finestra della sua camera da letto, il pittore dipinge una veduta del sud-est del Porto esterno al mattino presto. I contorni del Quai au Bois a sinistra e del Quai Courbe, in costruzione a destra, strutturano la composizione. Lo sfondamento centrale indica la posizione della chiusa transatlantica aperta al bacino dell'Eure. Gru, camini e alberi si bagnano nei vapori e nelle nebbie di un'alba autunnale. Le barche dei contrabbandieri in primo piano, il sole arancione Brillante ei suoi riflessi si aggiungono mentre Monet finisce la sua tela. Dipinta in poche ore, quell'immagine evanescente sorprende per la sua un comune libertà artigianale. L'artista decise di inserirlo, nel 1874, alla prima mostra della società cooperativa per azioni di pittori, scultori, incisori e litografi organizzata nelle antiche officine di Nadar; gli è stato quindi chiesto di trovare un titolo per il catalogo.Considerando che l'opera non può passare decentemente per una veduta di Le Havre, il titolo Impressione. Questo finisce, dal gergo dei pittori, sulla bocca di tutti dalla metà del secolo. Indicava il crescente interesse dei paesaggisti nel rendere un'atmosfera, un'impressione, a scapito di una minuziosa descrizione della natura.Inviato dal quotidiano satirico Le Charivari per coprire l'evento, il conservatorissimo Louis Leroy improvvisamente il collegamento tra il titolo scelto da Monet e le contestate aspirazioni dei giovani pittori appassionati di vita all'aria aperta. Ne prese spunto per falsificare il titolo del suo feroce articolo: "La mostra degli impressionisti" (25 aprile 1874). Pochi giorni dopo, il commentatore Jules Castagnary, fervente difensore degli espositori, riprende i fini impressionisti attribuindogli un valore positivo. Designa quindi il gruppo formato da Monet e dai suoi amici. Impressione, il sole nascente è oggi il simbolo.</display>
+			<description source="Musée Marmottan Monet, Parigi [website]; https://www.parigi.it/it/museo-marmottan-monet.php (accessed 10/07/2023)">Un séjour, vers novembre 1872, à l’hôtel de l’Amirauté au Havre offre à Monet le motif de sa toile la plus célèbre, Impression, soleil levant. Depuis la fenêtre de sa chambre, le peintre brosse une vue du sud-est de l’avant-port au petit matin. Les contours du quai au Bois à gauche et du quai Courbe, en travaux à droite, structurent la composition. La percée centrale indique l’emplacement de l’écluse des transatlantiques ouverte sur le bassin de l’Eure. Grues, cheminées et mâtures baignent dans les vapeurs et les brumes d’une aube automnale. Les barques de passeurs au premier plan, le soleil vif orangé et ses reflets sont ajoutés au moment où Monet termine sa toile. Peinte en quelques heures, cette image évanescente surprend par sa liberté de facture peu commune. L’artiste décide de la faire figurer, en 1874, à la première exposition de la Société anonyme coopérative des artistes peintres, sculpteurs, graveurs et lithographes organisée dans les anciens ateliers de Nadar ; il est alors sommé de lui trouver un titre pour le catalogue. Considérant que l’oeuvre ne peut décemment pas passer pour une vue du Havre, il l’intitule Impression. Ce terme, issu du jargon des peintres, était depuis le milieu du siècle sur toutes les lèvres. Il désignait l’intérêt grandissant de paysagistes pour le rendu d’une atmosphère, d’une impression, au détriment d’une description minutieuse de la nature. Envoyé par le journal satirique Le Charivari pour couvrir l’événement, le très conservateur Louis Leroy fait immédiatement le lien entre le titre choisi par Monet et les aspirations contestées de jeunes peintres passionnés par le plein air. Il s’en inspire pour forger le titre de son article féroce : « L’exposition des impressionnistes» (25 avril 1874). Quelques jours plus tard, le commentateur Jules Castagnary, fervent défenseur des exposants, reprend à son compte le terme d’impressionnistes et lui confère une valeur positive. Il désigne dès lors le groupe formé par Monet et ses amis. Impression, soleil levant en est aujourd’hui le symbole.</description>
+		</descriptionSet>
+		<inscriptionSet>
+			<display>in basso a sinistra: Claude Monet, successivamente datato 72</display>
+			<inscription>
+				<author/>
+				<position/>
+				<text/>
+			</inscription>
+		</inscriptionSet>
+		<locationSet>
+			<display>Musée Marmottan Monet (Parigi, Francia) 4014</display>
+			<notes>Donato da Don Eugène e Victorine Donop de Monchy (acquisito il 23/05/1940)</notes>
+			<location type="repository">
+				<name type="geographic" vocab="ULAN" refid="500310013" extent="organization">Musée Marmottan Monet</name>
+				<name type="geographic" vocab="TGN" refid="7008038" extent="inhabited place">Parigi</name>
+				<name type="geographic" vocab="TGN" refid="1000070" extent="nation">Francia</name>
+				<name type="geographic" vocab="TGN" refid="1000003">Europa</name>
+			</location>
+		</locationSet>
+		<materialSet>
+			<display>Olio su tela</display>
+			<notes/>
+			<material/>
+		</materialSet>
+		<measurementsSet>
+			<display>H. 50cm; l.65cm (senza cornice);H.75cm;l.91cm;D. 10cm (con cornice)</display>
+			<notes/>
+			<measurements type="height" unit="cm" extent="without frame">50</measurements>
+			<measurements type="width" unit="cm" extent="without frame">1.65</measurements>
+		</measurementsSet>
+		<sourceSet>
+			<display>Musée Marmottan Monet</display>
+			<source>
+				<name>Musée Marmottan Monet</name>
+			</source>
+		</sourceSet>
+		<stylePeriodSet>
+			<display>Impressionismo; Diciannovesimo secolo</display>
+			<stylePeriod vocab="GAO" refid="300021503">Impressionismo</stylePeriod>
+		</stylePeriodSet>
+		<subjectSet>
+			<display>Le Havre; paesaggio marittimo; alba; mare; riflesso; barche; porto; impressionismo</display>
+			<notes/>
+		</subjectSet>
+		<techniqueSet>
+			<display>pittura a olio (technique)</display>
+			<notes/>
+			<technique vocab="AAT" refid="300178684">oil painting (technique)</technique>
+		</techniqueSet>
+		<titleSet>
+			<display>Impression, soliel levant</display>
+			<title type="repository" pref="true" xml:lang="fr">Impression, Soleil levant</title>
+		</titleSet>
+		<worktypeSet>
+			<display>dipinto (visual works); dipinto ad olio (visual works)</display>
+			<worktype vocab="AAT" refid="300033799">dipinto a olio (visual work)</worktype>
+		</worktypeSet>
+	</work>
+	 <image id="i_129"
+        href="https://www.wallpaperflare.com/paining-of-boat-during-golden-hour-artwork-painting-claude-monet-wallpaper-hgqxu"
+        refid="129" source="Wallpaper Flare">
+        <measurementsSet>
+            <display>18 MB</display>
+            <notes/>
+            <measurements/>
+        </measurementsSet>
+        <relationSet>
+            <relation type="imageOf" refid="26" source="Wallpaper Flare"/>
+        </relationSet>
+        <rightsSet>
+            <display>publicDomain</display>
+            <rights/>
+        </rightsSet>
+        <sourceSet>
+            <display>Museo Marmottan Monet[website];https://www.parigi.it/it/museo-marmottan-monet.php</display>
+            <source>
+                <name/>
+                <refid type="URI">https://www.parigi.it/it/museo-marmottan-monet.php</refid>
+            </source>
+        </sourceSet>
+        <techniqueSet>
+            <display>digital imaging</display>
+            <notes/>
+            <technique/>
+        </techniqueSet>
+        <titleSet>
+            <display>Overall view without frame</display>
+            <title type="generalView">Impression, soleil levant without frame</title>
+        </titleSet>
+        <worktypeSet>
+            <display>digital image</display>
+            <notes/>
+            <worktype/>
+        </worktypeSet>
+    </image>
+</vra>
+
+
+
+
+
+
+
+
+
+

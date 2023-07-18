@@ -1,0 +1,154 @@
+.intro {
+	text-align: center;
+	font-style:italic;
+	font-family:Arial, sans-serif;
+}
+body {
+	background-image: url('../img/sfdi2.jpg');
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-position: center;
+}
+
+.w3-bar-item {
+	font-size:15px;
+	font-style: oblique;
+	margin-left:40px;
+}
+
+.descrizione {
+	font-size: 20px ;
+	font-family:calibri;
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-top: 40px;
+	text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+}
+
+.box-button {
+	position:absolute;
+	bottom:43%;
+	left:25%;
+	margin-top: 10px;
+	font-size:16px;
+	font-style:italic;
+	color:black;
+	padding:10px 20px;
+	border-radius:5px;
+	background-color:#ffffed;
+}
+
+.box-button1 {
+	left:19%;
+	position:absolute;
+	bottom:43%;
+	margin-top:10px;
+	font-size:16px;
+	font-style:italic;
+	color:black;
+	padding:10px 20px;
+	border-radius: 5px;
+	background-color:#ffffed;
+} 
+
+.box-button2 {
+	left:14%;
+	position:absolute;
+	bottom:43%;
+	margin-top:10px;
+	font-size:16px;
+	font-style:italic;
+	color:black;
+	padding:10px 20px;
+	border-radius: 5px;
+	background-color:#ffffed;
+}
+
+.box-button3 {
+	left:23%;
+	position:absolute;
+	bottom:43%;
+	margin-top:10px;
+	font-size:16px;
+	font-style:italic;
+	color:black;
+	padding:10px 20px;
+	border-radius: 5px;
+	background-color:#ffffed;
+}
+
+.box-container {
+  display: flex;
+  justify-content: center;
+  margin-left:0;
+}
+
+.box-container2 {
+	display:flex;
+	justify-content:center;
+	margin-left:0;
+}
+
+.box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right:55px;
+  margin-left:55px;
+  position:relative;
+  margin-top:40px;
+}
+
+.box2 {
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+	margin-right:55px;
+	margin-left:55px;
+	position:relative;
+	margin-top:40px;
+}
+
+.immagine1 {
+	width:300px;
+	height:400px;
+}
+
+.immagine2 {
+	width:300px;
+	height:400px;
+}
+
+.immagine3 {
+	width:300px;
+	height:400px;
+}
+
+.immagine4 {
+	width:300px;
+	height:400px;
+}
+
+.immagine5 {
+	width:300px;
+	height:400px;
+}
+
+.immagine6 {
+	width:300px;
+	height:400px;
+}
+
+.licenze {
+	font-size:15px;
+	text-align:center;
+	color:black;
+	padding-top:40px;
+	font-family:georgia;
+}
+footer {
+	padding:20px;
+	text-align:center;
+	color: black;
+	font-family:georgia;
+}

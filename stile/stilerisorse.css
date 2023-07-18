@@ -1,0 +1,72 @@
+.intro {
+	text-align: center;
+	font-style:italic;
+	font-family:calibri, sans-serif;
+}
+body {
+	background-color:#fffafa;
+}
+
+.w3-bar-item {
+	font-size:15px;
+	font-style: oblique;
+	margin-left:40px;
+}
+
+.contenuto {
+	margin-top:20px;
+	margin-left:30px;
+	margin-right:30px;
+}
+
+h2 {
+	margin-top:0;
+	padding-top:0;
+	margin-bottom:10px;
+}
+
+.contenuto h2 {
+	margin-bottom: 0;
+}
+.video1 {
+	width: 450px;
+	height:450px;
+}
+.video2 {
+	width: 450px;
+	height:450px;
+}
+
+.accordion {
+	background-color:#f5ebff;
+	color:black;
+	curson: pointer;
+	padding: 18px;
+	width:100%;
+	text-align:left;
+	outline:none;
+	transition:0.4s;
+}
+.active, .accordion:hover {
+	background-color:#ffe8ff;
+}
+.panel {
+	padding:0 18px;
+	background-color:white;
+	display:none;
+	overflow: hidden;
+}
+
+.licenze {
+	font-size:15px;
+	text-align:center;
+	color:black;
+	padding-top:40px;
+	font-family:georgia;
+}
+footer {
+	padding:20px;
+	text-align:center;
+	color: black;
+	font-family:georgia;
+}

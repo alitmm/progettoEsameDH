@@ -1,0 +1,39 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:zs="http://docs.oasis-open.org/ns/search-ws/sruResponse" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.8" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
+<titleInfo>
+<title>Le avanguardie tra musica e pittura: impressionismo</title>
+</titleInfo>
+<name type="personal">
+<namePart>Giuseppe Fausto Modugno</namePart>
+<role>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+</name>
+<typeOfResource>registrazione sonora non musicale</typeOfResource>
+<originInfo>
+<dateIssued encoding="marc">2010</dateIssued>
+<issuance>monographic</issuance>
+<place>
+<placeTerm type="text">Italia</placeTerm>
+</place>
+<agent>
+<namePart>Lamon Records</namePart>
+</agent>
+<dateIssued>2010</dateIssued>
+</originInfo>
+<language>
+<languageTerm authority="iso639-1" type="code">ita</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marccategory">sound recording</form>
+<form authority="marcsmd">sound disc</form>
+<form authority="gmd">sound recording</form>
+</physicalDescription>
+<tableOfContents type="Contents"></tableOfContents>
+<note>registrazione sonora non musicale</note>
+<note type="performers">Giuseppe Fausto Modugno</note>
+<subject authority="lcsh">
+<topic>registrazione sonora non musicale arte e musica</topic>
+<temporal>2010</temporal>
+</subject>
+<identifier type="IT/ICCU/REA">0267876</identifier>
+</mods>
